@@ -1,0 +1,18 @@
+{
+    "influx":{
+        "ip": "localhost",
+        "port": "8086",
+        "user": "root",
+        "pass": "root",
+        "table": "mydb"
+    
+    },
+    "email":{
+        "fromEmail" : "",
+        "toEmail" : "",
+        "emailSubject": "",
+        "emailBody" : "",
+        "smtpServer": ""
+        
+    }
+}
